@@ -1,1 +1,1 @@
-Ovdje ću slati java projekat i zadatke radjene na vježbama. Prve četiri nedelje vježbi će biti u jednom folderu jer nisam znao tačno kako funkcioniše github, ali u buduće će svaka nedelja imati svoj folder.
+Ovdje ću slati java projekat i zadatke radjene na vježbama. Prvih pet nedelja vježbi će biti u jednom folderu jer nisam znao tačno kako funkcioniše github, ali u buduće će svaka nedelja imati svoj folder.
